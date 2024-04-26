@@ -19,7 +19,7 @@ const jobSeeker: JobSeeker = {
 <a href="https://www.linkedin.com/in/souhaylb"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://www.github.com/souhayl95"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
 <a href="https://www.gitlab.com/souhayl95"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=orange" height=25></a>
-
+<a href="https://souhayl.vercel.app/"><img src="https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=7CC576" height=25></a>
 ---
 
 <div align="center">
@@ -68,5 +68,6 @@ const jobSeeker: JobSeeker = {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"></code><code><img height="30" src="https://www.svgrepo.com/show/354202/postman-icon.svg"></code>
 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg"></code>
-
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg"></code>
