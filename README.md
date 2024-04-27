@@ -73,13 +73,3 @@ const jobSeeker: JobSeeker = {
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg"></code>
 
 ---
-
-<div class="error">
-    <img src="https://komarev.com/ghpvc/?username=souhaylb&color=7CC576" alt="badge" />
-</div>
-
-<style>
-    .error {
-        display: none;
-    }
-</style>
