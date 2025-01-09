@@ -23,6 +23,7 @@ const jobSeeker: JobSeeker = {
 ---
 
 <div align="center">
+    <img src="https://souhayl-stats.vercel.app/?user=Souhaylb&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Github Stats">
     <h2>🛠️ Technologies & Tools</h2>
 </div>
 
